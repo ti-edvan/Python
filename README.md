@@ -1,3 +1,3 @@
 # Python
  Primeiros passoas com Python
- Vamos lá!
+ vamos lá!
