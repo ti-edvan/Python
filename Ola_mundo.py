@@ -10,5 +10,7 @@ saudacao = "Olá Mundo"
 
 print(saudacao)
 
-''' Perceba que no prieiro print foi utilizado aspas e no segundo sem aspas, por quê? Por que no segundo print estamos chamando a variavel dentro da função print().
+'''
+Perceba que no prieiro print foi utilizado aspas e no segundo sem aspas, por quê? 
+Por que no segundo print estamos chamando a variavel dentro da função print().
 '''
